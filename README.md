@@ -1,5 +1,6 @@
-![Alt text](2.png)
 <a href="https://www.linkedin.com/in/konika-453a3b208/">
+![Alt text](2.png)
+
 
 
 ## :eyes: Current overview
