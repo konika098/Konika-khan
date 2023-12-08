@@ -1,4 +1,5 @@
 ![Alt text](2.png)
+<a href="https://www.linkedin.com/in/konika-453a3b208/">
 
 
 ## :eyes: Current overview
@@ -17,13 +18,14 @@
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/HTML.svg"/>
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/css.png"/>
+<img  src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/css.png"/>
 <img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/JavaScript.svg"/>
+<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/React-Dark%20(1).svg"/>
 
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/React-Dark%20(1).svg"/>
+
 <img src="https://raw.githubusercontent.com/konika098/Konika-khan/316d5fc82478da1d8676c172ca4408647c0764f8/asstes/MaterialUI-Dark.svg"/>
 
 <img src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/tailwind.png"/>
@@ -44,6 +46,7 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
-<div >
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
+
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p>
